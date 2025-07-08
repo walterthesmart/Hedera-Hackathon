@@ -1,0 +1,4 @@
+node_modules
+.next/
+.next/static/webpack/
+.next/static/development/
